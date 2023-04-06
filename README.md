@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @foxwilly
+- 👋 Hi, I’m @willy Network automation engineers
 - 👀 I’m interested in devops automation in mobile networks
-- 🌱 I’m currently learning 5G
-- 💞️ I’m looking to collaborate to build a python script the run Benchmark CIS_CentOs_8
+- 🌱 I’m currently learning Cloud, Containers, orchestration and 5G
+- 💞️ I’m looking to collaborate to build a python project related to the cluod and 5G networks
 - 📫 How to reach me foxwilly@hotmail.com
 
 <!---
